@@ -1,7 +1,7 @@
 ### Olá! eu sou o Rafael Rossim 👋
 - 🌱 Atualmente trabalhando com back-end
 - 👯 Estudando Python
-- ⚡ Fun fact: ...
+- 🤖 Ainda vou salvar vidas usando IA e Machine Learnig
 
 <div align="center">
   <a href="https://github.com/rafaelrossim">
