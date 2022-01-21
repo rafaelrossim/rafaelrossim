@@ -1,5 +1,5 @@
 ### Olá! sou o Rafael Rossim 👋
-- 🎓 Graduado em T.I a mais de 10 anos
+- 🎓 Graduado na área de tecnologia e desenvolvimento a mais de 10 anos
 - 👨‍💻 Atualmente trabalhando com back-end
 - 🚀 Futuro profissional FullStack
 - 📚 Estudando Python suas libs e frameworks
