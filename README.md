@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente trabalhando com back-end
 - 🚀 Futuro profissional FullStack
 - 📚 Estudando Python suas libs e frameworks
-- 🤖 Ainda vou salvar vidas usando IA e Machine Learnig
+- 🤖 Ainda vou salvar vidas utilizando IA e Machine Learnig
 
 <div align="center">
   <a href="https://github.com/rafaelrossim">
