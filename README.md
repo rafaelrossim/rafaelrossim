@@ -1,6 +1,8 @@
 ### Olá! eu sou o Rafael Rossim 👋
-- 🌱 Atualmente trabalhando com back-end
-- 👯 Estudando Python
+- 🎓 Graduado em T.I a mais de 10 anos
+- 👨‍💻 Atualmente trabalhando com back-end
+- 🚀 Futudo profisisonal FullStack
+- 📚 Estudando Python suas libs e frameworks
 - 🤖 Ainda vou salvar vidas usando IA e Machine Learnig
 
 <div align="center">
