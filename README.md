@@ -1,5 +1,5 @@
 ### Olá! sou o Rafael Rossim 👋
-- 🎓 Graduado em **Desenvolvimento de Softwares**
+- 🎓 Graduado em **Banco de Dados & Desenvolvimento de Softwares**
 - 👨‍💻 Atualmente trabalhando com **Python**
 - 🚀 Futuro profissional **FullStack** & **FullCicle**
 - 📚 Constante aprendizado em **Python** suas libs e frameworks
