@@ -1,6 +1,6 @@
 ### Olá! sou o Rafael Rossim 👋
 - 🎓 Graduado em **Banco de Dados**
-- 👨‍💻 Atualmente trabalhando em Desenvolvimento **Python**
+- 👨‍💻 Atualmente trabalhando como **Desenvolvedor Python**
 - 🚀 Futuro Profissional **Data Science & Machine Learning**
 - 📚 Constante aprendizado em **Python** suas libs e frameworks
 - 🤖 Ainda vou salvar vidas utilizando **IA** e **Machine Learnig**
