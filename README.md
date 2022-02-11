@@ -1,6 +1,6 @@
 ### Olá! sou o Rafael Rossim 👋
 - 🎓 Graduado em **Banco de Dados**
-- 👨‍💻 Atualmente trabalhando como **Python Developer** na <a href="https://www.stalse.com/">Stalse</a>
+- 👨‍💻 Atualmente trabalhando como **Python Developer** na <a href="https://www.stalse.com/" target="_blank">Stalse</a>
 - 🚀 Futuro Profissional **Data Science**
 - 📚 Constante aprendizado em **Python** suas libs e frameworks
 - 🤖 Ainda vou salvar vidas utilizando **IA** e **Machine Learnig**
