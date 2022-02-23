@@ -1,7 +1,7 @@
 ### Olá! sou o Rafael Rossim 👋
 - 🎓 Graduado em **Banco de Dados**
 - 👨‍💻 Atualmente trabalhando como **Python Developer** na <a href="https://www.stalse.com/" target="_blank">Stalse</a>
-- 🚀 Futuro Profissional **Data Science**
+- 🚀 Futuro **Data Engineere**
 - 📚 Constante aprendizado em **Python** suas libs e frameworks
 - 🤖 Ainda vou salvar vidas utilizando **IA** e **Machine Learnig**
 
@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-postgres" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-pcharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rafa-GC" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Rafa-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Rafa-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 </div>
